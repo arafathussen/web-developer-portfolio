@@ -163,5 +163,12 @@ main section {
 }
 
 .download-cv{
+    margin-top: 50px;
     text-align: center;
+}
+footer{
+    display: flex;
+    background: #fff8f3;
+    margin-top: 80px;
+    padding: 130px 200px;
 }
